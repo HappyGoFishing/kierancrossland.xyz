@@ -1,2 +1,3 @@
 # kieranc.xyz
-New website
+
+My new website. (hosted on a real VPS this time) 
