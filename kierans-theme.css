@@ -1,0 +1,49 @@
+@charset "utf-8";
+@font-face {
+    font-family: "iosevka";
+    src: url("resources/fonts/iosevka-regular.ttf");
+}
+body {
+    color: #d2cdff;
+    background: #2b2a2c;
+    font-family: 'iosevka', sans-serif;
+}
+
+header {
+position:fixed;
+font-size: 18px;
+width: 99%;
+text-align: center;
+}
+
+footer {
+position:fixed;
+bottom: 10px;
+width: 99%;
+text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  color: #9ca3ff;
+}
+
+h2 {
+    font-size: 28px;
+    color:rgb(68, 151, 218) 
+}
+
+p1 {
+    font-size: 18px;
+    color: #ffffff;
+}
+a:link {
+  color:rgb(7, 175, 175);
+}
+a:visited {
+    color:rgba(0, 255, 255, 0.808);
+}   
+/* mouse over link */
+a:hover {
+    color:white;
+}
