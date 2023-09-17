@@ -1,12 +1,12 @@
 @charset "utf-8";
-@font-face {
+/*@font-face {
     font-family: "iosevka";
     src: url("resources/fonts/iosevka-regular.ttf");
-}
+} */
 body {
     color: #d2cdff;
     background: #2b2a2c;
-    font-family: 'iosevka', sans-serif;
+    font-family:  sans-serif;
 }
 
 header {
