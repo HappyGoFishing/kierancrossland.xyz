@@ -24,7 +24,7 @@ text-align: center;
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 32px;
   color: #9ca3ff;
 }
 
@@ -39,6 +39,7 @@ p1 {
 }
 a:link {
   color:rgb(7, 175, 175);
+  bold
 }
 a:visited {
     color:rgba(0, 255, 255, 0.808);
